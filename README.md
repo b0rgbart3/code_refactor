@@ -1,19 +1,20 @@
 # code_refactor
 Bootcamp Homework Challenge #2
 
-The HTML code in this project was edited by me to accomplish the following:
-
-## The Deployed Webpage
+### The Deployed Webpage
 https://b0rgbart3.github.io/code_refactor/
 
-## Goals
+## Description:
+The HTML code in this project was edited by me to accomplish the following:
+
+### Goals
 
 ```
 Follow accessibility standards
 optimized for search engines
 ```
 
-## Acceptance Criteria
+### Acceptance Criteria
 
 ```
 GIVEN a webpage meets accessibility standards
