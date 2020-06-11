@@ -1,13 +1,13 @@
 # code_refactor
 Bootcamp Homework Challenge #2
 
+The HTML code in this project was edited by me to accomplish the following:
 
-## User Story
+## Goals
 
 ```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+Follow accessibility standards
+optimized for search engines
 ```
 
 ## Acceptance Criteria
